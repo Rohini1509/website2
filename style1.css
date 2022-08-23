@@ -1,0 +1,29 @@
+table,tr,th,td{
+
+
+    
+   
+    padding:10px;
+    
+    text-align:'right';
+    color:rgb(191, 255, 0);
+    font-size: 30;
+    
+    
+    
+    }
+
+    .tab1
+    {
+       display:flex;
+       background-color:rgba(0, 0, 0, 0.311);
+       justify-content: center;
+       margin-top: 200px ;
+       
+    }
+
+   body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
